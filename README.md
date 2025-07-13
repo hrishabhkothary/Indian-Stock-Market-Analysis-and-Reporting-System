@@ -16,7 +16,7 @@ Analyze historical stock prices for Indian companies (NSE/BSE) using Python and 
 - Store visuals for presentation
 
 ## 🧩 How to Run
-1. Clone repo  
+1. Clone this repo  
 2. Create MySQL DB: `CREATE DATABASE indian_stocks;`  
 3. Run `create_tables.sql` to create tables  
 4. Place `raw_stock_data.csv` in `/data`  
