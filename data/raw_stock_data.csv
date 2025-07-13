@@ -1,4 +1,4 @@
-ticker,trade_date,open,high,low,close,volume
+ticker,trade_date,open,high,low,close,volume_traded
 INFY,2025-07-11,1579.10,1607.10,1563.00,1594.90,11391755
 HDFCBANK,2025-07-11,1983.70,2004.80,1980.90,1983.70,6258461
 RELIANCE,2025-07-11,2650.00,2680.00,2640.00,2675.00,3400000
